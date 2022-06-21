@@ -1,0 +1,8 @@
+Dataset,Datos Total,Datos sin null,Datos Nulos,Cantidad Registros,Cant de Registros con Null
+df_clientes,24048,23787,261,2672,145
+df_compras,103851,103484,367,11539,367
+df_gastos,43200,43200,0,8640,0
+df_localidades,57988,56949,1039,4142,543
+df_proveedores,98,96,2,14,2
+df_sucursales,217,217,0,31,0
+df_ventas,466450,464634,1816,46645,1800
